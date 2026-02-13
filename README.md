@@ -4,7 +4,7 @@ This is a solution to the **Social Links Profile** challenge on Frontend Mentor.
 The project showcases a clean, responsive profile card with accessible social media links.
 
 ## 🔗 Live Demo
-- Live Site: 
+- Live Site: https://inflnltee.github.io/Social-links-profile/
 - Repository: https://github.com/inflnltee/Social-links-profile
 
 ## 🛠 Built With
